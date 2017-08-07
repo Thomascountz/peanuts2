@@ -1,6 +1,6 @@
 # Peanuts2
 
-Normally, when an app needs serious refactoring, we simply chip away at it. However, since [Peanuts](https://github.com/Thomascountz/peanuts) was only an app for me to learn Rails with, it has outlived it's usefulness. Now, Peanuts2 has come in behind it to allow me to execute and exercise my current level of understanding about how best to use Rails to solve everyday problems.
+Normally, when an app needs serious refactoring, we simply chip away at it. However, since [Peanuts](https://github.com/Thomascountz/peanuts) was only an app for me to learn Rails with, it has outlived its usefulness. Now, Peanuts2 has come in behind it to allow me to execute and exercise my current level of understanding and to really take a stab at making this a reality.
 
 ## Overview
 
